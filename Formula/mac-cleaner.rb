@@ -1,8 +1,8 @@
 class MacCleaner < Formula
   desc "Tiny macOS cleaner: free RAM, empty Trash, uninstall apps, find large files"
   homepage "https://github.com/chaibialaa/mac-cleaner"
-  url "https://github.com/chaibialaa/mac-cleaner/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "305748745b5d73bb16e92bd289bad40c780251d7ea67befb0e7b122771881d94"
+  url "https://github.com/chaibialaa/mac-cleaner/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "47302470edf6dde3a2849ed6a11e8d8b560e3b9494ef4860e4364a7bba818432"
   license "MIT"
 
   depends_on :macos
